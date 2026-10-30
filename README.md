@@ -29,6 +29,4 @@ This project was created to practice UI/UX design and develop a simple, user-fri
 - Improve mobile responsiveness
 - Develop a functional website
 
-Author
 
-Created as a personal learning project.
